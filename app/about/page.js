@@ -5,22 +5,13 @@ export default function Aboutpage() {
   return (
     <main className="relative min-h-screen w-full">
       <Image
-                src="/hassan.jpg"
+                src="/editbg.jpg"
                 alt="Background Photo"
                 fill
                 priority
                 quality={100}
                 sizes="100vw"
-                className="object-cover object-center -z-10 lg:block hidden"
-              />
-              <Image
-                src="/homeBg.png"
-                alt="Background Photo"
-                fill
-                priority
-                quality={100}
-                sizes="100vw"
-                className="object-cover object-center -z-10 block lg:hidden"
+                className="object-cover object-center -z-10"
               />
 
       {/* Content Wrapper */}
@@ -29,8 +20,8 @@ export default function Aboutpage() {
           <Navbar />
         </div>
 
-        <div className="headings w-full min-h-150 flex justify-center">
-          <div className="content-aside lg:w-3/5 w-full mt-05 lg:mt-0 flex flex-col items-center">
+        <div className="headings w-full min-h-150 flex justify-center pb-4">
+          <div className="content-aside lg:w-3/5 w-full my-05 lg:my-0 flex flex-col items-center">
             <div className="details font-poppins flex flex-col items-center">
               <h1 className="font-bold lg:text-6xl md:text-5xl text-3xl text-center ">Hassan Saleem</h1>
               <h3 className="text-center md:text-xs text-lg mt-3">
