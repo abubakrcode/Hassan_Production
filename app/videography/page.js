@@ -24,11 +24,11 @@ export default function VideoGraphyPage() {
           <Navbar />
         </div>
         <div className="headings w-full h-full flex flex-col lg:flex-row justify-center">
-          <div className="aside w-full lg:w-1/2 flex flex-col my-2 lg:mx-10 mx-4">
+          <div className="aside w-full lg:w-1/2 flex flex-col my-2 mx-4">
            <div className="Details font-poppins flex flex-col items-center ">
-            <h1 className="font-bold lg:text-6xl md:text-5xl text-3xl">Videography</h1>
-            <h2 className="mt-3 text-center md:text-xs text-lg">Bring your brand to life on camera</h2>
-            <div className="paragraphs lg:text-lg text-xs  lg:w-2/3 w-full mt-3 flex flex-col md:gap-3 gap-0 text-gray-400 leading-7 tracking-wider">
+            <h1 className="font-bold md:text-4xl text-3xl">Videography</h1>
+            <h2 className="mt-3 text-center text-xs md:text-lg">Bring your brand to life on camera</h2>
+            <div className="paragraphs lg:text-lg text-xs  lg:w-9/10 w-full mt-3 flex flex-col md:gap-3 gap-0 text-gray-400 leading-7 tracking-wider">
               <p className="para1">
               For me, videography combines technology, design, and emotion. A compelling video is created when images not only look good, but also tell a story together.</p>
                <p className="para2"> Before I even set up a camera or start editing, I think intensively about what message I want to convey and what kind of atmosphere I want to create. From this, I develop a clear visual approach in which composition, movement, sound, and rhythm consciously work together.</p>

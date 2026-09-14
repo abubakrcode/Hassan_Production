@@ -24,13 +24,13 @@ export default function SocialMediaPage() {
             <Navbar />
           </div>
           <div className="headings w-full h-full flex flex-col lg:flex-row justify-center">
-            <div className="aside w-full lg:w-1/2 flex flex-col my-2 lg:mx-10 mx-4 ">
+            <div className="aside w-full lg:w-1/2 flex flex-col my-2 mx-4 ">
               <div className="Details font-poppins flex flex-col items-center ">
-                <h1 className="font-bold lg:text-6xl md:text-5xl text-3xl">Social Media Management</h1>
-                <h2 className="mt-3 text-center md:text-xs text-lg">
+                <h1 className="font-bold md:text-4xl text-3xl">Social Media Management</h1>
+                <h2 className="mt-3 text-center text-xs md:text-lg">
                   Driving real engagement and measurable growth
                 </h2>
-                <div className="paragraphs lg:text-lg text-xs  lg:w-2/3 w-full mt-3 flex flex-col md:gap-3 gap-0 text-gray-400 leading-7 tracking-wider">
+                <div className="paragraphs lg:text-lg text-xs  lg:w-9/10 w-full mt-3 flex flex-col md:gap-3 gap-0 text-gray-400 leading-7 tracking-wider">
                   <p className="para1">
                     For me, social media management combines strategy, design,
                     and connection. A compelling brand presence is created when
