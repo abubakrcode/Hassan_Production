@@ -56,7 +56,7 @@ export default function Aboutpage() {
                 account management. In this role, I have successfully:
               </p>
 
-              <ul className="list-disc lg:text-lg text-xs md:px-10 px-3 mt-3 text-[#aaaaaa] leading-6 tracking-wider">
+              <ul className="list-disc lg:text-lg text-xs md:px-14 px-6 mt-3 text-[#aaaaaa] leading-6 tracking-wider">
                 <li>
                   Increased sales through targeted social media marketing
                   campaigns
