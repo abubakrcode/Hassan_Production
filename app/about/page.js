@@ -37,7 +37,7 @@ export default function Aboutpage() {
                 Video Editor | Videographer | Social Media Manager | Content Creator
               </h3>
 
-              <p className="lg:text-lg text-xs px-10 mt-3 text-[#aaaaaa] leading-6 tracking-wider">
+              <p className="lg:text-lg text-xs md:px-10 px-3 mt-3 text-[#aaaaaa] leading-6 tracking-wider">
                 I began my career as a content creator, producing and
                 self-editing video content across multiple platforms. As my
                 skills developed, I expanded my presence across various
@@ -49,14 +49,14 @@ export default function Aboutpage() {
                 demand.
               </p>
 
-              <p className="lg:text-lg text-xs px-10  mt-3 text-[#aaaaaa] leading-6 tracking-wider">
+              <p className="lg:text-lg text-xs md:px-10 px-3 mt-3 text-[#aaaaaa] leading-6 tracking-wider">
                 Building on this foundation, I transitioned into a role at a
                 real estate firm, where I manage a range of responsibilities
                 including video production, editing, and social media
                 account management. In this role, I have successfully:
               </p>
 
-              <ul className="list-disc lg:text-lg text-xs px-14  mt-3 text-[#aaaaaa] leading-6 tracking-wider">
+              <ul className="list-disc lg:text-lg text-xs md:px-10 px-3 mt-3 text-[#aaaaaa] leading-6 tracking-wider">
                 <li>
                   Increased sales through targeted social media marketing
                   campaigns
@@ -71,7 +71,7 @@ export default function Aboutpage() {
                 </li>
               </ul>
 
-              <p className="lg:text-lg text-xs px-10  mt-3 text-[#aaaaaa] leading-6 tracking-wider">
+              <p className="lg:text-lg text-xs md:px-10 px-3 mt-3 text-[#aaaaaa] leading-6 tracking-wider">
                 My diverse background in content creation, platform
                 management, and digital marketing allows me to bridge
                 creative execution with measurable business results.
