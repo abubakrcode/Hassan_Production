@@ -9,7 +9,7 @@ export default function Navbar() {
       <div className="mobileView flex sm:hidden w-full  ">
         <MobileMenu/>
       </div>
-    <div className="webView hidden sm:flex justify-between items-center w-full px-10 gap-2  lg:text-[14px] md:text-sm text-[8px]">
+    <div className="webView hidden sm:flex justify-between items-center w-full px-10 gap-2  lg:text-lg md:text-sm text-[8px]">
       <Link href="/">
         <button className="lg:w-16 w-13 lg:h-16 h-13 flex items-center justify-center font-bold rounded-full bg-transparent backdrop-blur-md border border-white/20 shadow-2xl text-white hover:text-[#838383] transition-all">
           HS

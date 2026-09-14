@@ -12,7 +12,7 @@ export default function MobileMenu() {
   return (
     <div className="w-full sm:hidden">
       {/* Top Mobile Bar */}
-      <nav className="flex justify-between text-sm items-center w-full px-10 py-2 rounded-full bg-transparent backdrop-blur-xs border border-white/20 shadow-2xl text-white">
+      <nav className="flex justify-between text-sm items-center w-full px-4 py-2 rounded-full bg-transparent backdrop-blur-xs border border-white/20 shadow-2xl text-white">
         <Link href="/" onClick={closeMenu}>
           <p className="hover:bg-gray-700 p-2 rounded font-bold transition-all duration-500">
             HS

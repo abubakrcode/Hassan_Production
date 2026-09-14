@@ -33,17 +33,17 @@ export default function Homepage() {
             <Navbar />
           </div>
           <div className="headings w-full h-150 flex  justify-center">
-            <div className="aside lg:w-2/3 w-full mt-50 lg:mt-0 flex flex-col justify-center items-center">
+            <div className="aside lg:w-2/3 w-full mt-80 lg:mt-0 flex flex-col justify-center items-center">
               <div className="heading">
-                <h2 className="lg:text-2xl text-xl font-medium text-gray-300 hover:text-[#838383] ">
+                <h2 className="lg:text-2xl md:text-xl text-[16px] font-medium text-gray-300 hover:text-[#838383] ">
                   Hi! I'm
                 </h2>
-                <h1 className="lg:text-6xl text-5xl font-bold text-white hover:text-[#838383]  my-2 mb-4  ">
+                <h1 className="lg:text-6xl md:text-5xl text-3xl font-bold text-white hover:text-[#838383]  my-2 mb-4  ">
                   Hassan Saleem
                 </h1>
               </div>
               <div className="carousel flex justify-between items-center font-bold">
-                <p className="text-rotate lg:text-4xl text-3xl h-15 hover:text-[#838383]  duration-12000">
+                <p className="text-rotate lg:text-4xl md:text-3xl text-xl h-15 hover:text-[#838383]  duration-12000">
                   <span className=" justify-items-center">
                     <span>Video Editing</span>
                     <span>Videography</span>
@@ -54,8 +54,8 @@ export default function Homepage() {
               </div>
               <div className="aboutbtn">
                 <Link href="/about">
-                  <button className="lg:px-6 px-4 lg:py-3 py-2 font-extrabold tracking-wide flex justify-center items-center gap-1 rounded-full bg-transparent backdrop-blur-md border border-white/20 shadow-2xl text-white hover:text-[#838383] transition-all text-lg">
-                    About Me <FiArrowUpRight className="w-6 h-6 " />
+                  <button className="lg:px-6 md:px-4 lg:py-3 md:py-2 px-2 py-1 md:font-extrabold font-normal text-xs tracking-wide flex justify-center items-center gap-1 rounded-full bg-transparent backdrop-blur-md border border-white/20 shadow-2xl text-white hover:text-[#838383] transition-all md:text-lg">
+                    About Me <FiArrowUpRight className="md:w-6 md:h-6 w-3 h-3 " />
                   </button>
                 </Link>
               </div>
