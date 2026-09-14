@@ -5,21 +5,23 @@ export default function Aboutpage() {
   return (
     <main className="relative min-h-screen w-full">
       <Image
-        src="/hassan.jpg"
-        alt="Background Photo"
-        fill
-        priority
-        sizes="(min-width: 1024px) 100vw, 0px"
-        className="object-cover object-center -z-10 lg:block hidden"
-      />
-      <Image
-        src="/homeBg.png"
-        alt="Background Photo"
-        fill
-        priority
-        sizes="(min-width: 1024px) 100vw, 0px"
-        className="object-cover object-center -z-10 block lg:hidden"
-      />
+                src="/hassan.jpg"
+                alt="Background Photo"
+                fill
+                priority
+                quality={100}
+                sizes="100vw"
+                className="object-cover object-center -z-10 lg:block hidden"
+              />
+              <Image
+                src="/homeBg.png"
+                alt="Background Photo"
+                fill
+                priority
+                quality={100}
+                sizes="100vw"
+                className="object-cover object-center -z-10 block lg:hidden"
+              />
 
       {/* Content Wrapper */}
       <div className="relative z-10 flex flex-col items-center w-full">
