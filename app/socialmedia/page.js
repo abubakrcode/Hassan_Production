@@ -26,7 +26,7 @@ export default function SocialMediaPage() {
           <div className="headings w-full h-full flex flex-col lg:flex-row justify-center">
             <div className="aside w-full lg:w-1/2 flex flex-col my-2 mx-4 ">
               <div className="Details font-poppins flex flex-col items-center ">
-                <h1 className="font-bold md:text-4xl text-3xl">Social Media Management</h1>
+                <h1 className="font-bold md:text-4xl text-3xl text-center">Social Media Management</h1>
                 <h2 className="mt-3 text-center text-xs md:text-lg">
                   Driving real engagement and measurable growth
                 </h2>
