@@ -27,9 +27,9 @@ export default function EditingPage() {
         <div className="headings w-full h-full flex flex-col lg:flex-row justify-center">
           <div className="aside w-full lg:w-1/2 flex flex-col my-2  mx-4">
            <div className="Details font-poppins flex flex-col items-center ">
-            <h1 className="font-bold md:text-4xl text-3xl text-center">Video Editing</h1>
+            <h1 className="font-bold md:text-4xl text-3xl ">Video Editing</h1>
             <h2 className="mt-3 text-center text-xs md:text-lg ">Unite all clips to pitch a story</h2>
-            <div className="paragraphs lg:text-lg text-xs  mx-1 w-full mt-3 flex flex-col md:gap-3 gap-0 text-gray-400 leading-7 tracking-wider">
+            <div className="paragraphs lg:text-lg text-xs  lg:w-9/10 w-full mt-3 flex flex-col md:gap-3 gap-0 text-gray-400 leading-7 tracking-wider">
               <p className="para1">
               For me, video editing is where technology, design, and emotion come together. A strong edit happens when individual clips don’t just look refined, but combine to tell a story as one.</p>
                <p className="para2"> Before I import footage or make the first cut, I focus on the message I need to deliver and the atmosphere I want to build. From that foundation, I shape an editorial approach where timing, motion, sound, and rhythm all work in sync.</p>
