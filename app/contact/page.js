@@ -30,7 +30,7 @@ export default function ContactPage() {
         <div className="headings w-full h-full flex  justify-center">
           <div className="aside lg:w-1/2 w-full flex flex-col mt-2 lg:mx-10 mx-4 ">
            <div className="Details font-poppins flex flex-col items-center ">
-            <h1 className="font-bold text-4xl">Get in Touch</h1>
+            <h1 className="font-bold lg:text-6xl md:text-5xl text-3xl">Get in Touch</h1>
             <div className="paragraphs lg:w-2/3 w-full mt-3 flex flex-col gap-3   ">
             <form action="https://api.web3forms.com/submit" method="POST" className="flex flex-col gap-6 ">
 
