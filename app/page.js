@@ -33,7 +33,7 @@ export default function Homepage() {
             <Navbar />
           </div>
           <div className="headings w-full h-150 flex  justify-center">
-            <div className="aside lg:w-2/3 w-full mt-80 lg:mt-0 flex flex-col justify-center items-center">
+            <div className="aside lg:w-2/3 w-full mt-80 lg:mt-0 flex flex-col justify-center items-center font-poppins ">
               <div className="heading">
                 <h2 className="lg:text-2xl md:text-xl text-[16px] font-medium text-gray-300 hover:text-[#838383] ">
                   Hi! I'm
