@@ -70,7 +70,7 @@ export default function SocialMediaPage() {
                   className="object-contain bg-transparent w-full h-full scale-150"
                 />
               </div>
-              <div className="font-poppins flex justify-center items-center z-50 h-0 my-10 lg:mt-0">
+              <div className="font-poppins flex justify-center items-center z-50 h-0 my-6 lg:mt-0">
                 <a
                   href="https://www.instagram.com/minivlogs3811/"
                   target="_blank"
