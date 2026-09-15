@@ -67,7 +67,7 @@ export default function SocialMediaPage() {
                   fill
                   priority
                   sizes="(max-width: 1024px) 100vw, 50vw"
-                  className="object-contain bg-transparent w-full h-full scale-125"
+                  className="object-contain bg-transparent w-full h-full scale-150"
                 />
               </div>
               <div className="font-poppins flex justify-center items-center z-50 h-0 mt-10 lg:mt-0">

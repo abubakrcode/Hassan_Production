@@ -46,7 +46,7 @@ export default function VideoGraphyPage() {
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 50vw"
-                className="object-contain bg-transparent w-full h-full scale-135"
+                className="object-contain bg-transparent w-full h-full scale-200"
               />
             </div>
             <div className="font-poppins flex justify-center items-center z-50 ">

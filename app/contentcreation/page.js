@@ -68,14 +68,14 @@ export default function ContentCreationPage() {
                   fill
                   priority
                   sizes="(max-width: 1024px) 100vw, 50vw"
-                  className="object-contain bg-transparent w-full h-full scale-120 "
+                  className="object-contain bg-transparent w-full h-full scale-140 "
                 />
               </div>
               <div className="font-poppins flex justify-center items-center z-50 h-0 mt-10 lg:mt-0 ">
                 <a
                   href="https://www.tiktok.com/@viral.vloger"
                   target="_blank"
-                  className="btn md:p-8 p-3 text-[14px] md:text-xl font-normal rounded-full bg-transparent backdrop-blur-md border border-white/20 shadow-2xl text-white hover:text-[#838383] transition-all "
+                  className="btn md:p-8 p-3 text-[14px] md:text-xl font-normal rounded-full bg-transparent backdrop-blur-md border border-white/20 shadow-2xl text-black hover:text-[#838383] transition-all "
                 >
                   Explore more
                 </a>
