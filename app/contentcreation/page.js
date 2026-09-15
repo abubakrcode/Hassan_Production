@@ -75,7 +75,7 @@ export default function ContentCreationPage() {
                 <a
                   href="https://www.tiktok.com/@viral.vloger"
                   target="_blank"
-                  className="btn md:p-8 p-3 text-[14px] md:text-xl font-normal rounded-full bg-transparent backdrop-blur-md border border-white/20 shadow-2xl text-black hover:text-[#838383] transition-all "
+                  className="btn md:p-8 p-3 text-[14px] md:text-xl font-normal rounded-full bg-transparent backdrop-blur-md border border-white/20 shadow-2xl lg:text-black text-white hover:text-[#838383] transition-all "
                 >
                   Explore more
                 </a>
